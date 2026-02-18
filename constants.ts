@@ -4,7 +4,7 @@ export const APP_NAME = "Dace's Samgyeopsal";
 export const TAGLINE = "Samgyup na pang masa na mabu-BUCHOG ka hindi lang sa LASA pati na rin sa PRESYONG abot kaya!!";
 export const ADDRESS = "Brgy. Banago (Beside Gasso), Nagcarlan, Philippines";
 export const PHONE_NUMBER = "0938 475 2514";
-export const FACEBOOK_URL = "https://www.facebook.com/profile.php?id=100086553835055"; 
+export const FACEBOOK_URL = "https://www.facebook.com/DaceSamgyeopsal/";
 export const GOOGLE_MAPS_LINK = "https://maps.app.goo.gl/vfNzyPK3MiuhAPQB8";
 
 export const MENU_ITEMS: MenuItem[] = [
